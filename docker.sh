@@ -1,7 +1,7 @@
 
 node('slave1'){
     stage('deploy'){
-    echo "feature 1"
+    echo "feature 2"
 }
     
 }
