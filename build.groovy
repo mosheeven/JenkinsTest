@@ -1,5 +1,6 @@
 stage("test"){
 	echo "Success!!"
+}
 	
 
 
